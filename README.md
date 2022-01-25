@@ -1,4 +1,4 @@
-# Gradient_descent
+# Gradient_descent_neural_network
 
 Just for fun I implemented the gradient descent from scratch
 
