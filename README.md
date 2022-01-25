@@ -4,7 +4,7 @@ Just for fun I implemented the gradient descent from scratch
 
 **what skills I learnt from this
 
-1. Pandas
+1.Pandas
 
 2.Sigmoid function
 
