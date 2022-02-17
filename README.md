@@ -1,6 +1,6 @@
 # Gradient_descent_neural_network
 
-Just for fun I implemented the gradient descent from scratch
+Just for learning I implemented the gradient descent from scratch
 
 **what skills I learnt from this**
 
